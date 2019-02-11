@@ -84,5 +84,14 @@
     <ClCompile Include="2441.cpp">
       <Filter>Source Files\Finish</Filter>
     </ClCompile>
+    <ClCompile Include="1924.cpp">
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
+    <ClCompile Include="8393.cpp">
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
+    <ClCompile Include="11720.cpp">
+      <Filter>Source Files\ing</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
