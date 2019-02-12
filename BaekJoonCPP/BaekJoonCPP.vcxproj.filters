@@ -91,7 +91,13 @@
       <Filter>Source Files\Finish</Filter>
     </ClCompile>
     <ClCompile Include="11720.cpp">
-      <Filter>Source Files\ing</Filter>
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
+    <ClCompile Include="11721.cpp">
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
+    <ClCompile Include="15552.cpp">
+      <Filter>Source Files\Finish</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
