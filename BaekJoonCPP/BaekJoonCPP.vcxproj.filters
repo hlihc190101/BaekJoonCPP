@@ -99,5 +99,23 @@
     <ClCompile Include="15552.cpp">
       <Filter>Source Files\Finish</Filter>
     </ClCompile>
+    <ClCompile Include="9498.cpp">
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
+    <ClCompile Include="10817.cpp">
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
+    <ClCompile Include="10871.cpp">
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
+    <ClCompile Include="1546.cpp">
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
+    <ClCompile Include="4344.cpp">
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
+    <ClCompile Include="1110.cpp">
+      <Filter>Source Files\Finish</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
